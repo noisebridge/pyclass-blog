@@ -7,5 +7,5 @@ sfgiantscap
 elyanqui (Dwight Clancy)
 aaktaran  (Anil Aktaran)
 flesner       (Daniel Flesner)
-jjuliia
+jjuliia (Julia Litman-Cleper)
 RamonPy       (Ramon Pavon)
