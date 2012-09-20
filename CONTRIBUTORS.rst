@@ -1,10 +1,10 @@
 Bad ass pyclass members
 -----------------------
-jsutterfield
+jsutterfield (James Sutterfield)
 cdl78 (Chris Loental)
 SonjaKT
 sfgiantscap
-elyanqui
+elyanqui (Dwight Clancy)
 aaktaran  (Anil Aktaran)
 flesner       (Daniel Flesner)
 jjuliia
