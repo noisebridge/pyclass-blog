@@ -1,7 +1,7 @@
 Bad ass pyclass members
 -----------------------
 jsutterfield
-cdl78
+cdl78 (Chris Loental)
 SonjaKT
 sfgiantscap
 elyanqui
